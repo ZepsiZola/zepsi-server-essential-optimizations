@@ -1,0 +1,13 @@
+name = "Tabby"
+filename = "tabby-1.19.4-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GTVNY7Yu/versions/VygXPBM9/tabby-1.19.4-1.1.0.jar"
+hash-format = "sha1"
+hash = "C11F19375B1059E9FDB9081B7C08A87AAA4EBCC5"
+
+[update]
+[update.modrinth]
+mod-id = "GTVNY7Yu"
+version = "VygXPBM9"
